@@ -1,16 +1,7 @@
 # uTorrent Puppet Module for Boxen
 
-Install uTorrent (Bittorrent client) through Github Boxen.
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-[![Build Status](https://travis-ci.org/nonsense/puppet-utorrent.png)](https://travis-ci.org/nonsense/puppet-utorrent)
-
-## Usage
-
-```puppet
-include utorrent
-```
-
-## Required Puppet Modules
-
-* boxen
-
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
